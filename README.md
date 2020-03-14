@@ -14,4 +14,4 @@ so that I have quick access to emails and GitHub profiles
 ## Functionality
 When a user begins the application, they are prompted to choose between creating the profile of a manager, engineer, or intern. After answering questions related to all of the team members, an html is creating with a  card containing basic information on all team members. 
 
-![DevTeam](https://imgur.com/sv5mN9x)
+![DevTeam](https://i.imgur.com/sv5mN9x.png)
