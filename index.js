@@ -100,7 +100,7 @@ function startingHTML() {
     </head>
     <body>
         <nav class="navbar navbar-dark bg-dark mb-5">
-            <span class="navbar-brand mb-0 h1 w-100 text-center">Team Profile</span>
+            <span class="navbar-brand mb-0 h1 w-100 text-center">Generated Team</span>
         </nav>
         <div class="container">
             <div class="row">`;
